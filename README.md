@@ -81,7 +81,7 @@ client_query_management/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/rajdeepsen97/client_query_management.git
 ```
 
 ---
@@ -202,7 +202,3 @@ The dashboard provides:
 Built as part of the **GUVI Full Stack Development Project**.
 
 ---
-
-# ⭐ Conclusion
-
-This project demonstrates the implementation of a real-world support ticket management system using Python full-stack technologies with authentication, analytics, database integration, and dashboard monitoring.
